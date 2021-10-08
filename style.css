@@ -1,0 +1,63 @@
+.header-text
+{
+    padding-left: 48%;
+    text-align: center;
+}
+
+
+body {
+  min-height: 100vh;
+}
+
+ body {
+    background-image: url('water.jpg');
+    background-repeat: no-repeat;
+    background-size: 50% 100%;
+    background-position: right top;
+}
+
+
+.form-group{
+    padding-right: 10px;
+    padding-top: 10px;
+    padding-left: 38px;
+}
+
+.height-full {
+    height: 90vh;
+  }
+  
+
+label{
+    padding-bottom: 7px;
+}
+.button_atr{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    padding-left: 38px;
+}
+.navbar{
+    min-height: 30px;
+    height: 5vh;
+    box-shadow: 10px 10px 5px grey;
+}
+.footer_atr{
+    height: 5vh;
+    box-shadow: 10px 10px 5px grey;
+}
+.title-atr{
+    padding-top: 30px;
+    padding-left: 25px;
+}
+
+
+/* Portrait tablets and small desktops */
+@media(max-width: 991px) {
+
+          .bgimg {
+        background-image: none;
+    }
+
+}
+
+
