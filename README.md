@@ -12,7 +12,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-  <a href="https://github.com/CommanderAstern/BasicFormWebdev.">
+  <a href="https://github.com/CommanderAstern/BasicFormWebdev">
     <img src="img/logo.png" alt="Logo" width="80" height="80">
   </a>
 
@@ -21,14 +21,14 @@
   <p align="center">
     project_description
     <br />
-    <a href="https://github.com/CommanderAstern/BasicFormWebdev."><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/CommanderAstern/BasicFormWebdev"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/CommanderAstern/BasicFormWebdev.">View Demo</a>
+    <a href="https://github.com/CommanderAstern/BasicFormWebdev">View Demo</a>
     ·
-    <a href="https://github.com/CommanderAstern/BasicFormWebdev./issues">Report Bug</a>
+    <a href="https://github.com/CommanderAstern/BasicFormWebdev/issues">Report Bug</a>
     ·
-    <a href="https://github.com/CommanderAstern/BasicFormWebdev./issues">Request Feature</a>
+    <a href="https://github.com/CommanderAstern/BasicFormWebdev/issues">Request Feature</a>
   </p>
 </div>
 
@@ -107,7 +107,7 @@ This is an example of how to list things you need to use the software and how to
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
    ```sh
-   git clone https://github.com/CommanderAstern/BasicFormWebdev..git
+   git clone https://github.com/CommanderAstern/BasicFormWebdev.git
    ```
 3. Install NPM packages
    ```sh
@@ -141,7 +141,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 - [] Feature 3
     - [] Nested Feature
 
-See the [open issues](https://github.com/CommanderAstern/BasicFormWebdev./issues) for a full list of proposed features (and known issues).
+See the [open issues](https://github.com/CommanderAstern/BasicFormWebdev/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -179,7 +179,7 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 
 Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email@email_client.com
 
-Project Link: [https://github.com/CommanderAstern/BasicFormWebdev.](https://github.com/CommanderAstern/BasicFormWebdev.)
+Project Link: [https://github.com/CommanderAstern/BasicFormWebdev](https://github.com/CommanderAstern/BasicFormWebdev)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -198,16 +198,16 @@ Project Link: [https://github.com/CommanderAstern/BasicFormWebdev.](https://gith
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/CommanderAstern/BasicFormWebdev.svg?style=for-the-badge
-[contributors-url]: https://github.com/CommanderAstern/BasicFormWebdev./graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/CommanderAstern/BasicFormWebdev..svg?style=for-the-badge
-[forks-url]: https://github.com/CommanderAstern/BasicFormWebdev./network/members
-[stars-shield]: https://img.shields.io/github/stars/CommanderAstern/BasicFormWebdev..svg?style=for-the-badge
-[stars-url]: https://github.com/CommanderAstern/BasicFormWebdev./stargazers
-[issues-shield]: https://img.shields.io/github/issues/CommanderAstern/BasicFormWebdev..svg?style=for-the-badge
-[issues-url]: https://github.com/CommanderAstern/BasicFormWebdev./issues
-[license-shield]: https://img.shields.io/github/license/CommanderAstern/BasicFormWebdev..svg?style=for-the-badge
-[license-url]: https://github.com/CommanderAstern/BasicFormWebdev./blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/CommanderAstern/BasicFormWebdevsvg?style=for-the-badge
+[contributors-url]: https://github.com/CommanderAstern/BasicFormWebdev/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/CommanderAstern/BasicFormWebdev.svg?style=for-the-badge
+[forks-url]: https://github.com/CommanderAstern/BasicFormWebdev/network/members
+[stars-shield]: https://img.shields.io/github/stars/CommanderAstern/BasicFormWebdev.svg?style=for-the-badge
+[stars-url]: https://github.com/CommanderAstern/BasicFormWebdev/stargazers
+[issues-shield]: https://img.shields.io/github/issues/CommanderAstern/BasicFormWebdev.svg?style=for-the-badge
+[issues-url]: https://github.com/CommanderAstern/BasicFormWebdev/issues
+[license-shield]: https://img.shields.io/github/license/CommanderAstern/BasicFormWebdev.svg?style=for-the-badge
+[license-url]: https://github.com/CommanderAstern/BasicFormWebdev/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/linkedin_username
 [product-screenshot]: images/screenshot.png
