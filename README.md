@@ -147,5 +147,5 @@ Distributed under the MIT License. See `LICENSE.txt` for more information.
 [issues-shield]: https://img.shields.io/github/issues/CommanderAstern/BasicFormWebdev.svg?style=for-the-badge
 [issues-url]: https://github.com/CommanderAstern/BasicFormWebdev/issues
 [license-shield]: https://img.shields.io/github/license/CommanderAstern/BasicFormWebdev.svg?style=for-the-badge
-[license-url]: https://github.com/CommanderAstern/BasicFormWebdev/blob/master/LICENSE.txt
+[license-url]: https://github.com/CommanderAstern/BasicFormWebdev/blob/master/LICENSE.md
 [product-screenshot]: img/screenshot.PNG
