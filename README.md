@@ -92,8 +92,8 @@ That is it for now!
 <!-- ROADMAP -->
 ## Roadmap
 
-- [] Improve Aesthetics
-- [] Implement a Database System
+- Improve Aesthetics
+- Implement a Database System
 
 See the [open issues](https://github.com/CommanderAstern/BasicFormWebdev/issues) for a full list of proposed features (and known issues).
 
