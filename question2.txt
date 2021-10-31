@@ -1,8 +1,0 @@
-There are many ways in which we can add additional information to our HTML page, which include:
-
-Using proper page layouts <header>, <nav>, <article>, <footer>
-input type, e.g., informs, input type inf forms lets the browser know which data type is to be entered (Date, Name, Email)
-using attribute tabindex for better keyboard accessibility 
-using ARIA (aria-labelledby) to provide special instruction on objects
-longdesc attribute is meant to point to a separate web document containing an extended description
-using the alt attribute to describe an image
